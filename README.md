@@ -37,5 +37,5 @@ Após isso basta executar o arquivo "NodeJSPortable.exe" e instalar o *pug* por 
 
 `npm install pug-cli -g`
 
-E para compilar o projeto execute `compilar.bat`, dentro do próprio terminal do NodeJSPortable.exe
+E para compilar o projeto execute `compilar.bat` (ou `bash compilar.sh`), dentro do próprio terminal do NodeJSPortable.exe
 
