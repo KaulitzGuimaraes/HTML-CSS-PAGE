@@ -1,0 +1,9 @@
+
+
+  Os arquivos HTML foram gerados automaticamente
+  
+  Não altere o conteúdo, para alterá-los altere o respectivo arquivo PUG na pasta source/pages
+  
+  Após alterá-los use o comando abaixo para atualizar os documentos HTML
+      bash compilar.sh
+  
