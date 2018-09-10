@@ -17,7 +17,7 @@ Após instalar use o *script* que se encontra na raíz do projeto para compilar:
 
 ### Windows
 
-Caso utilize windows o procedimento é bem parecido. Instale o [nodejs](https://nodejs.org/en/download/), instale o pug com os comandos:
+Caso utilize windows o procedimento é bem parecido. Instale o [nodejs](https://nodejs.org/en/download/), e depois instale o pug com os comandos:
 
 `npm install pug -g`
 `npm install pug-cli -g`
