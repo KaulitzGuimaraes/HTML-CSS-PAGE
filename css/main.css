@@ -1,3 +1,36 @@
 p {
    font-size: 16px;
 }
+
+#menu ol{
+	list-style-type: none;
+	overflow: hidden;
+    border: 2px solid black;
+    background-image: url("../img/fundo-laranja.jpg");
+}
+
+#menu li{
+	display: block;
+	text-align: center;
+    border-bottom: 1px groove #555;
+    margin-right: 40px;
+}
+
+#menu li:last-child {
+    border-bottom: none;
+}
+
+#menu li a{
+	display: block;
+	color: black;
+    text-align: center;
+    padding: 5px 16px;
+    text-decoration: none;
+    font-family: 'Kavoon', cursive;
+    text-shadow: 2px 2px white;
+}
+
+#menu li a:hover{
+	background-color: #C0C0C0;
+	margin-right: 40px;
+}
