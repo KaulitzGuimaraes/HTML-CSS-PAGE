@@ -7,21 +7,20 @@ p {
 	overflow: hidden;
     border: 2px solid black;
     background-image: url("../img/fundo-laranja.jpg");
+	text-align: center;
+	margin: 0;
+	padding: 0;
 }
 
 #menu li{
-	display: block;
+	display: inline-block;
 	text-align: center;
     border-bottom: 1px groove #555;
-    margin-right: 40px;
-}
-
-#menu li:last-child {
-    border-bottom: none;
+    margin: 0 20px;
 }
 
 #menu li a{
-	display: block;
+	display: inline-block;
 	color: black;
     text-align: center;
     padding: 5px 16px;
@@ -32,5 +31,4 @@ p {
 
 #menu li a:hover{
 	background-color: #C0C0C0;
-	margin-right: 40px;
 }
