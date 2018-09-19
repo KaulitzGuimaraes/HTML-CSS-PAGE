@@ -1,0 +1,22 @@
+body, a, p {
+  font-family: sans-serif;
+  margin: 0;
+  cursor: default;
+}
+
+a {
+  cursor: pointer;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+}
+
+p {
+  font-size: 16px;
+}
+
+section {
+  padding: 20px 40px 50px;
+}
+
