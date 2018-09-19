@@ -51,6 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 .cabecalho {
   background-repeat: no-repeat;
   background-image: url("../img/fundo_mar.jpg");
+  background-size: cover;
   display: flex;
   align-items: center;
 }
