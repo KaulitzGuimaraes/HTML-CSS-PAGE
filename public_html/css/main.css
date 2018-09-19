@@ -1,36 +1,123 @@
+body, a, p {
+  font-family: sans-serif;
+  margin: 0;
+  cursor: default;
+}
+
+a {
+  cursor: pointer;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+}
+
 p {
-   font-size: 16px;
+  font-size: 16px;
 }
 
-#menu ol{
-	list-style-type: none;
-	overflow: hidden;
-    border: 2px solid black;
-    background-image: url("../img/fundo-laranja.jpg");
+section {
+  padding: 20px 40px 50px;
 }
 
-#menu li{
-	display: block;
-	text-align: center;
-    border-bottom: 1px groove #555;
-    margin-right: 40px;
+#menu ol {
+  list-style-type: none;
+  background-color: #001338;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
 }
 
-#menu li:last-child {
-    border-bottom: none;
+#menu li {
+  display: inline-block;
 }
 
-#menu li a{
-	display: block;
-	color: black;
-    text-align: center;
-    padding: 5px 16px;
-    text-decoration: none;
-    font-family: 'Kavoon', cursive;
-    text-shadow: 2px 2px white;
+#menu li a {
+  font-size: 16px;
+  letter-spacing: 2px;
+  padding: 18px 20px;
+  display: inline-block;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  background-color: transparent;
+  transition: all ease 200ms;
 }
 
-#menu li a:hover{
-	background-color: #C0C0C0;
-	margin-right: 40px;
+#menu li a:hover {
+  background-color: #DFDFDF;
+  color: black;
 }
+
+#conteudo_direita {
+  float: right;
+  width: 400px;
+  height: 1600px;
+  background-image: url("../img/fundo-nuvens.jpg");
+  border: 2px groove #C0C0C0;
+}
+
+#tituloGaleria {
+  text-align: center;
+}
+
+.cabecalho {
+  border-bottom: 0;
+  background-repeat: no-repeat;
+  background-image: url("../img/fundo_mar.jpg");
+  display: flex;
+  align-items: center;
+}
+
+.cabecalho h1 {
+  font-size: 60px;
+  color: white;
+  text-shadow: 4px 4px #000000;
+  text-align: center;
+  flex-grow: 1;
+  min-width: 180px;
+  word-wrap: break-word;
+}
+
+section h1 {
+  font-family: 'Righteous', cursive;
+  letter-spacing: 3px;
+}
+
+#logo1, #logo2 {
+  width: 150px;
+  height: 150px;
+  padding: 25px;
+}
+
+#logo1 {
+  float: left;
+}
+
+#logo2 {
+  float: right;
+}
+
+.conteudo {
+  width: 1600px;
+  height: 1600px;
+  background-image: url("../img/blue-white.jpg");
+  border: 2px groove #C0C0C0;
+  background-repeat: repeat-x;
+}
+
+#img-bemvindo {
+  width: 927px;
+  height: 250px;
+}
+
+#rodape {
+  background-color: #697fab;
+  padding: 40px;
+  text-align: center;
+  color: white;
+}
+
