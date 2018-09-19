@@ -1,8 +1,4 @@
 
-img {
-  max-width: 100%;
-}
-
 .menu ol, .menu ul {
   list-style-type: none;
   background-color: #001338;
@@ -74,39 +70,29 @@ img {
   float: right;
 }
 
-section {
-  padding: 20px 40px 30px;
-}
-
 section h1 {
   font-family: 'Righteous', cursive;
   letter-spacing: 3px;
 }
 
-.conteudo {
-  padding: 0;
-  display: flex;
-}
-
-.degrade {
-  background-image: url("../img/blue-white.jpg");
-  background-repeat: repeat-x;
-}
-
-.nuvens {
-  background-image: url("../img/fundo-nuvens.jpg");
-}
-
-.conteudo .principal {
-  max-width: 80%;
-  flex-grow: 1;
-}
-
-.conteudo .lateral {
+#conteudo_direita {
   display: inline-block;
   flex-grow: 1;
   text-align: center;
   min-height: 500px;
+  background-image: url("../img/fundo-nuvens.jpg");
+}
+
+.conteudo {
+  background-image: url("../img/blue-white.jpg");
+  background-repeat: repeat-x;
+  padding: 0;
+  display: flex;
+}
+
+#img-bemvindo {
+  width: 927px;
+  height: 250px;
 }
 
 #rodape {
@@ -114,6 +100,10 @@ section h1 {
   padding: 40px;
   text-align: center;
   color: white;
+}
+
+.left, .right {
+  display: inline-block;
 }
 
 

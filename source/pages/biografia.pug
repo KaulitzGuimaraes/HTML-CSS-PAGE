@@ -7,7 +7,50 @@ html(lang='pt-br')
   body
     include ../header
     
-    section
-      h1 Biografia
+    include ../nav
+    
+    .conteudo
+      section.principal
+        h1 Biografia
+        
+        p
+          a.subject  Nome Completo
+          |  : Kaulitz Guimarães Oliveira
+          br
+          a.subject Idade :
+          |  20 anos
+          br
+          a.subject Línguas :
+          |  português, inglês e espanhol.
+          br
+          a.subject Ano de ingresso :
+          |  2016
+          br
+          a.subject Linguagens de programação : 
+          | Python, C, C++, Java, Swift, PHP JavaScript.
+          br
+          a.subject   Front-end :
+          |  HTML5 e CSS.
+          br
+          a.subject Áreas de Interesse : 
+          | Machine Learning, Natural Language Processing, Web API’s, iOS e Cloud computing.
+          br
+          a.subject Certificações :
+          |  Machine Learning  (Stanford University), Desenvolvimento de aplicativos para iPhone ( UNICAMP),Cloud Computing ( Google), Desarollo para Apps Móviles (Google), Python for Data Science (IBM), How to build a ChatBOT (IBM).
+          
+      aside.lateral
+        .menu.vertical(style='margin-top: 50px;')
+          ul
+            li
+              a(href='#') Sérgio
+            li
+              a(href='#') Thiago
+            li
+              a(href='#') Mateus
+            li
+              a(href='#') Ramon
+            li
+              a(href='#') Kaulitz
+
     
     include ../footer
