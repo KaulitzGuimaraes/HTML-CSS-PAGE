@@ -29,7 +29,7 @@ Após isso dê dois cliques no arquivo *compilar.bat* que se encontra na raíz d
 
 ### Alternativa portátil para Windows
 
-Caso você não tenha permissão para instalar o *nodejs* baixe o [nodejs portátil](https://sourceforge.net/projects/nodejsportable/) e extraia o arquivo com um extrator (por exemplo o *7zip*).
+Caso você não tenha permissão para instalar o *nodejs* baixe o [nodejs portátil](https://sourceforge.net/projects/nodejsportable/) e extraia o arquivo.
 
 Após isso basta executar o arquivo "NodeJSPortable.exe" e instalar o *pug* por lá:
 
@@ -37,5 +37,5 @@ Após isso basta executar o arquivo "NodeJSPortable.exe" e instalar o *pug* por 
 
 `npm install pug-cli -g`
 
-E para compilar o projeto execute `compilar.bat`, dentro do próprio terminal do NodeJSPortable.exe
+E para compilar o projeto execute `compilar.bat` (ou `bash compilar.sh`), dentro do próprio terminal do NodeJSPortable.exe
 
