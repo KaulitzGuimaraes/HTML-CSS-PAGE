@@ -104,9 +104,6 @@ section {
 }
 
 .conteudo .lateral {
-  position: fixed;
-  right:0px;
-  top:150px;
   display: inline-block;
   flex-grow: 1;
   text-align: center;
