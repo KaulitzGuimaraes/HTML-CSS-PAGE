@@ -108,6 +108,8 @@ section {
   flex-grow: 1;
   text-align: center;
   min-height: 500px;
+  position:fixed;
+  top:20px;
 }
 
 #rodape {
