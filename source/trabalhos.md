@@ -1,6 +1,6 @@
 ## Trabalhos
 
-Nesta seção será encontrado os trabalhos acâdemicos já realizados pelos membros do grupo
+Nesta seção serão encontrados os trabalhos acâdemicos já realizados pelos membros do grupo
 
 
 -----------------------------------------------------------------------------------------------------
@@ -19,32 +19,39 @@ Projeto A Hora do Código – Ensinando Crianças a Programar mar de 2018 – ju
 
 O objetivo do Projeto era colocar crianças da EMEIEF Aldo José Kuhl em Limeira em contato com o mundo da programação! Foram ministradas aulas com a plataforma code.org. Utilizamos o jogo do minecraft de forma que as crianças pudessem programar e jogar ao mesmo tempo com o intuito de mostrar que a programação é algo muito divertido! Além da experiência incrível de poder ser professor, tivemos contato com práticas de gerenciamento/gestão de projetos que com certeza fortaleceram nosso portfólio para futuros projetos.
 
-  
 
 Desenvolvimento de software de Otimização de poços de petróleo em águas profundas – jan de 2017 – jan de 2018
 
-Descrição do projeto
+**Descrição do projeto**
 
 Trabalho desenvolvido junto com o prof. Augusto A. Meira, com a finalidade de otimizar poços de petroléo em um determinado terreno, com o objetivo de encontrar as melhores posições possíveis
 
-  
 
 Desenvolvimento de software para controle de estoque e caixa de supermercados jun de 2017 – jan de 2018
 
-Descrição do projeto
+**Descrição do projeto**
 
 Software que controla o movimento comercial de uma empresa, cria relatórios de vendas e compras e gera nota fiscal.
 
+
 Desenvolvimento de software que armazena notas e gera boletins para alunos da Etec João Belarmino – jun de 2012 – jun de 2013
 
-Descrição do projeto
+**Descrição do projeto**
 
 Devido a falta de automação na criação de boletins e armazenamento de notas dos alunos da ETEC João Belarmino, decidiu-se criar um software com o objetivo de informatizar esse processo e aumentar a facilidade dos alunos para acessar o boletim escolar.
+
 
 Sérgio Ferreira Batista Filho
 -----------------------------
 
-TODO
+Iniciação Científica em 2017 com o professor Augusto Meira sobre o tema funções proxy e visualização de funções no contexto de petróleo, onde foi desenvolvido um software para regressão linear baseado em busca local e em gradiente descendente, e foi desenvolvida uma biblioteca para visualização 3D em Java chamada SpaceDrawboard.
+
+Desenvolvimento de uma *framework* para geração de interfaces multiplataformas dinâmicas (atualmente em desenvolvimento).
+
+Desenvolvimento de uma rede social simples com suporte a publicações e conversas chamada NossoApp.
+
+Projeto “A Hora do Código” em 2018, com o professor Marcos Augusto Borges na disciplina de Gestão de Projetos, onde foram ministradas aulas de incentivo à raciocínio lógico e programação a alunos de uma escola pública em Limeira.
+
 
 Thiago Henrique Viotto
 ----------------------
@@ -57,16 +64,17 @@ Iniciação científica – “Descoberta de associação entre parâmetros de e
 
 Projeto “Ensinando programação para crianças”. Projeto com o intuito de apresentar a programação para crianças de 9 a 11 anos, através do code.org. UNICAMP. 2018
 
+
 Kaulitz Guimaraes
 -----------------
 
-SVO tagger
+**SVO tagger**
 
 TCC – prof. Ana Estela e prof. Pedro Ivo
 
 O trabalho consistiu em desenvolver um etiquetador de tipologia linguística que identifica os possíveis sujeitos, verbos e objetos, cujo o morfema seja substantivo, na língua portuguesa. O sistema foi implementado em PHP e Python
 
-Spam classifier
+**Spam classifier**
 
 Tópicos avançados em informática I – prof. Ana Estela
 

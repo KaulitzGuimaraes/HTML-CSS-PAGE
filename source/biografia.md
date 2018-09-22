@@ -1,7 +1,7 @@
 ## Biografia
 
 
-Nesta página você encontrará algumasinformações sobre os participantes do grupo : nome, skills em programação, certificação, etc.
+Nesta página você encontrará algumas informações sobre os participantes do grupo : nome, skills em programação, certificação, etc.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
