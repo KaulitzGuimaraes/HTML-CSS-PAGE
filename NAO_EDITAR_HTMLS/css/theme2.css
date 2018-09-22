@@ -132,12 +132,6 @@ img#bemVindo {
 
 .conteudo .lateral {
   display: none;
-  flex-grow: 1;
-  text-align: center;
-  min-height: 500px;
-  position:fixed;
-  top:20px;
-  min-width: 25%;
 }
 
 #rodape {
