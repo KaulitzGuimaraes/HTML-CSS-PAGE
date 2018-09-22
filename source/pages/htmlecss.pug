@@ -21,20 +21,18 @@ html(lang='pt-br')
           .item_html_css
             h3 abbr
             p Objetivo: Definir uma abreviação
-            p Sintaxe: 
-            xmp  <p>estão <abbr title="aproximadamente">aprox.</abbr>3 anos</p>
+            p Sintaxe: &lt;abbr title="aproximadamente"&gt;aprox.&lt;/abbr&gt;3 anos
 
           .item_html_css
-            h3 xmp
+            h3 escape caracteres
             p Objetivo: Exibir códigos HTML em uma página HTML
-            p Sintaxe: 
-            xmp <xmp><p>Parágrafo dentro no XMP</p> </ xmp>
+            p 
+             img(src='./img/escape_table.png', alt='Tabela de escape')
 
           .item_html_css
             h3 hover
             p Objetivo: Mudar a cor de um link quando o mouse é colocado em cima
-            p Sintaxe: 
-            a:hover { background-color: yellow; }
+            p Sintaxe: hover { background-color: #DFDFDF; color: black; }
 
        
     include ../footer
