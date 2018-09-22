@@ -21,5 +21,40 @@ p {
     font-weight: bold;
 }
 
+.tabelaImagensLinks {
+    width: 640px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    position: relative;
+    width: 700px;
+}
 
+table.blueTable {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border-collapse: separate;
+}
+
+table.blueTable td, table.blueTable th {
+ padding: 5px 0;
+}
+
+table.blueTable tbody td {
+  font-size: 13px;
+}
+
+table.blueTable tr:nth-child(even) {
+  background:  #FFFFFF;
+}
+
+table.blueTable thead {
+    border-bottom: 10px solid #FFFFFF;
+}
+
+.blueTable img{
+   width: 200px;
+   height: auto;
+}
 
