@@ -18,32 +18,53 @@ html(lang='pt-br')
 
           hr
 
-          .contatos
-           table
-            tbody
-             tr
-              th Nome
-              th Email
-              th Telefone
-             tr
-              td Thiago Viotto
-              td thiagohenriqueviotto1@gmail.com
-              td 1998135-6064
-             tr
-              td Kaulitz Guimarães
-              td v188530@dac.unicamp.br
-              td - 
-             tr
-              td Mateus Tanaka
-              td m184082@dac.unicamp.com
-              td -
-             tr
-              td Sérgio Ferreira
-              td sergiodev.exe@gmail.com
-              td -
-             tr
-              td Ramon Ramalho
-              td m183414@dac.unicamp.br
-              td -
+          .tabelaImagensLinks
+            table.blueTable
+              thead
+                tr
+                  th
+                    p.members KAULITZ
+                  th
+                    p.members THIAGO
+                  th
+                    p.members MATEUS
+                  th
+                    p.members SÉRGIO
+                  th
+                    p.members RAMON
+              tbody
+                tr
+                  td
+                    a(href='https://github.com/KaulitzGuimaraes/', target='_blank')
+                      img(src='img/kaulitz_git.jpg', alt='')
+                  td
+                    a(href='https://github.com/', target='_blank')
+                      img(src='img/thiago_git.jpg', alt='')
+                  td
+                    a(href='https://github.com/', target='_blank')
+                      img(src='img/mateus_git.png', alt='')
+                  td
+                    a(href='https://github.com/', target='_blank')
+                      img(src='img/sergio_git.jpg', alt='')
+                  td
+                    a(href='https://github.com/', target='_blank')
+                      img(src='img/ramon_git.jpg', alt='')
+                tr
+                  td
+                    a(href='mailto:kaulitguimaraes@hotmail.com')
+                      img(src='img/email.png', alt='')
+                  td
+                    a(href='mailto:thiagohenriqueviotto1@gmail.com')
+                      img(src='img/email.png', alt='')
+                  td
+                    a(href='mailto:m184082@dac.unicamp.br')
+                      img(src='img/email.png', alt='')
+                  td
+                    a(href='mailto:sergiodev.exe@gmail.com')
+                      img(src='img/email.png', alt='')
+                  td
+                    a(href='mailto:m183414@dac.unicamp.br')
+                      img(src='img/email.png', alt='')
+
     
     include ../footer
