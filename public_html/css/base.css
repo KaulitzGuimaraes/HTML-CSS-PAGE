@@ -3,6 +3,14 @@ body, a, p {
   margin: 0;
   cursor: default;
 }
+img {
+  max-width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Righteous', cursive;
+  letter-spacing: 3px;
+}
 
 a {
   cursor: pointer;
@@ -16,9 +24,144 @@ p {
   font-size: 16px;
 }
 
+section {
+  padding: 20px 40px 30px;
+}
+
 .subject{
     font-weight: bold;
 }
 
+.cabecalho {
+
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+.cabecalho h1 {
+  font-size: 60px;
+  color: white;
+  text-shadow: 4px 4px #000000;
+  text-align: center;
+  flex-grow: 1;
+  min-width: 180px;
+  word-wrap: break-word;
+}
+
+.menu ol, .menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.menu.vertical ol, .menu.vertical ul {
+  flex-direction: column;
+}
+
+.menu.vertical a {
+  display: block;
+}
+
+.menu li {
+  display: inline-block;
+}
+
+.menu li a {
+  font-size: 16px;
+  letter-spacing: 2px;
+  padding: 18px 20px;
+  display: inline-block;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  background-color: transparent;
+  transition: all ease 200ms;
+}
+
+.menu li a:hover {
+  background-color: #DFDFDF;
+  color: black;
+}
+
+.tabelaImagensLinks {
+
+    width: 640px; /*can be in percentage also.*/
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    position: relative;
+    margin-right: 120px;
+    width: 700px;
+    float: 100px;
+
+}
+
+
+table.blueTable {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+border-collapse: separate;
+
+}
+table.blueTable td, table.blueTable th {
+
+ padding: 5px 0;
+}
+table.blueTable tbody td {
+  font-size: 13px;
+}
+table.blueTable tr:nth-child(even) {
+  background:  #FFFFFF;
+
+}
+table.blueTable thead {
+    border-bottom: 10px solid #FFFFFF;
+}
+.blueTable img{
+   width: 200px;
+   height: auto;
+}
+
+#logo1, #logo2 {
+  width: 150px;
+  height: 150px;
+  padding: 25px;
+}
+
+#logo1 {
+  float: left;
+}
+
+#logo2 {
+  float: right;
+}
+#rodape {
+  padding: 40px;
+  text-align: center;
+  color: white;
+}
+
+.conteudo {
+  padding: 0;
+  display: flex;
+}
+
+.conteudo .principal {
+  max-width: 80%;
+  flex-grow: 1;
+}
+
+.conteudo .lateral {
+  display: inline-block;
+  flex-grow: 1;
+  text-align: center;
+  min-height: 400px;
+}
 
 
