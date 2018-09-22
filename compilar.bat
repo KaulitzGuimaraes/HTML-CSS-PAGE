@@ -1,1 +1,1 @@
-pug --pretty --out public_html source/pages/*
+pug --pretty --out NAO_COMPILAR_HTMLS source/pages/*

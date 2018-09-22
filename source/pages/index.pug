@@ -7,14 +7,15 @@ html(lang='pt-br')
   body
     include ../header
     
-    include ../nav
-    
-    .conteudo.degrade
-      .principal
-        img#img-bemvindo(src='img/bem-vindo.jpg', alt='Seja bem vindo')
-        
-      aside.lateral.nuvens
-        h2#tituloGaleria GALERIA
+    .interior
+      include ../nav
+      
+      .conteudo.degrade
+        .principal
+          img#img-bemvindo(src='img/bem-vindo.jpg', alt='Seja bem vindo')
+          
+        aside.lateral.nuvens
+          h2#tituloGaleria GALERIA
     
     include ../footer
 
