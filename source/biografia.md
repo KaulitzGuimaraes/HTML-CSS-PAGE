@@ -9,19 +9,21 @@ Nesta página você encontrará algumasinformações sobre os participantes do g
 Sérgio Ferreira
 ---------------
 
-Nome Completo :
-Idade :
+Nome Completo : Sérgio Ferreira Batista Filho
 
-Línguas :
-Ano de ingresso :
+Idade : 21
 
-Linguagens de programação :
+Línguas : Português fluente, inglês avançado, alemão básico, espanhol básico.
 
-Front-end :
+Ano de ingresso : 2016
 
-Áreas de Interesse :
+Linguagens de programação : Java, JavaScript, TypeScript, C, C++, PHP
 
-Certificações :
+Front-end : HTML5, CSS3, PUG, SASS/LESS, SVG, Android, JavaFX
+
+Áreas de Interesse : Modularização/Arquitetura de sistemas, gestão de dependências, visualização 3D
+
+Certificações : Certificação de aproveitamento nos programas de Inicação Científica da OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas) na Unicamp nos anos de 2009, 2011, 2012 e 2013, por suas respectivas medalhas de bronze em 2009, 2011, 2012, 2013 e de prata em 2014.
 
 
 
@@ -30,9 +32,11 @@ Thiago Viotto
 -------------
 
 Nome Completo :
+
 Idade :
 
 Línguas :
+
 Ano de ingresso :
 
 Linguagens de programação :
@@ -50,9 +54,11 @@ Mateus Tanaka
 -------------
 
 Nome Completo :
+
 Idade :
 
 Línguas :
+
 Ano de ingresso :
 
 Linguagens de programação :
@@ -70,9 +76,11 @@ Ramon Ramalho
 -------------
 
 Nome Completo :
+
 Idade :
 
 Línguas :
+
 Ano de ingresso :
 
 Linguagens de programação :
@@ -89,9 +97,11 @@ Kaulitz Guimarães
 -----------------
 
 Nome Completo : Kaulitz Guimarães Oliveira
+
 Idade : 20 anos
 
 Línguas : Português, inglês e espanhol.
+
 Ano de ingresso : 2016
 
 Linguagens de programação : Python, C, C++, Java, Swift, PHP JavaScript.
@@ -99,7 +109,8 @@ Linguagens de programação : Python, C, C++, Java, Swift, PHP JavaScript.
 Front-end : HTML5 e CSS.
 
 Áreas de Interesse : Machine Learning, Natural Language Processing, Web API’s, iOS e Cloud computing.
-Certificações : Machine Learning (Stanford University), Desenvolvimento de aplicativos para iPhone ( UNICAMP),Cloud Computing ( Google), Desarollo para Apps Móviles (Google), Python for Data Science (IBM), How to build a ChatBOT (IBM).
+
+Certificações : Machine Learning (Stanford University), Desenvolvimento de aplicativos para iPhone (UNICAMP), Cloud Computing (Google), Desarollo para Apps Móviles (Google), Python for Data Science (IBM), How to build a ChatBOT (IBM).
 
 
 
