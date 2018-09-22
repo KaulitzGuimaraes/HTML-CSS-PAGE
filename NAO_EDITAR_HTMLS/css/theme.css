@@ -115,6 +115,15 @@ section {
   min-width: 25%;
 }
 
+.contatos table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: left;
+  border-spacing: 5px;
+  background-color: #f1f1c1;
+}
+
 #rodape {
   background-color: #001338;
   padding: 40px;
