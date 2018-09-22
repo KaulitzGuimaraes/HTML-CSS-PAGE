@@ -99,8 +99,11 @@ section {
   background-image: url("../img/fundo-nuvens.jpg");
 }
 
+.conteudo li {
+    margin: 12px 0;
+}
+
 .conteudo .principal {
-  max-width: 80%;
   flex-grow: 1;
 }
 
@@ -109,6 +112,7 @@ section {
   flex-grow: 1;
   text-align: center;
   min-height: 500px;
+  min-width: 25%;
 }
 
 #rodape {
