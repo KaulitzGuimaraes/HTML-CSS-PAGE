@@ -99,12 +99,12 @@ section {
   background-image: url("../img/fundo-nuvens.jpg");
 }
 
-.conteudo li {
-    margin: 12px 0;
-}
-
 .conteudo .principal {
   flex-grow: 1;
+}
+
+.principal li {
+    margin: 12px 0;
 }
 
 .conteudo .lateral {
